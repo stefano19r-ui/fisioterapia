@@ -27,9 +27,9 @@ const ContactSection = () => {
 
     // TODO: Replace with your actual EmailJS credentials
     // You can get these by signing up at https://www.emailjs.com/
-    const YOUR_SERVICE_ID = "YOUR_SERVICE_ID";
-    const YOUR_TEMPLATE_ID = "YOUR_TEMPLATE_ID";
-    const YOUR_PUBLIC_KEY = "YOUR_PUBLIC_KEY";
+    const YOUR_SERVICE_ID = "service_2wnv9cq";
+    const YOUR_TEMPLATE_ID = "template_scq6i2j";
+    const YOUR_PUBLIC_KEY = "bynEoTOX3dKK9YRj4";
 
     if (form.current) {
       emailjs
@@ -126,23 +126,22 @@ const ContactSection = () => {
                 </div>
                 <div className="space-y-2">
                   <label htmlFor="phone" className="text-sm font-medium text-foreground">{t("contact.phone")}</label>
-                  <Input id="phone" name="user_phone" placeholder={t("contact.form.phone")} type="tel" className="bg-secondary/20 border-border/50 focus:border-primary" />
+                  <Input id="phone" name="user_phone" placeholder={t("contact.form.phone")} type="tel" className="bg-secondary/20 border-border/50 focus:border-primary" required />
                 </div>
               </div>
 
               <div className="space-y-2">
-                <label htmlFor="email" className="text-sm font-medium text-foreground">{t("contact.form.email")}</label>
-                <Input id="email" name="user_email" type="email" placeholder={t("contact.form.email")} required className="bg-secondary/20 border-border/50 focus:border-primary" />
+                <label htmlFor="email" className="text-sm font-medium text-foreground">{t("contact.form.email")} (Opzionale)</label>
+                <Input id="email" name="user_email" type="email" placeholder={t("contact.form.email")} className="bg-secondary/20 border-border/50 focus:border-primary" />
               </div>
 
               <div className="space-y-2">
-                <label htmlFor="message" className="text-sm font-medium text-foreground">{t("contact.form.message")}</label>
+                <label htmlFor="message" className="text-sm font-medium text-foreground">{t("contact.form.message")} (Opzionale)</label>
                 <Textarea
                   id="message"
                   name="message"
                   placeholder={t("contact.form.message")}
                   className="min-h-[150px] bg-secondary/20 border-border/50 focus:border-primary"
-                  required
                 />
               </div>
 
