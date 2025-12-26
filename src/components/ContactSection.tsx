@@ -81,7 +81,7 @@ const ContactSection = () => {
                 </div>
                 <div>
                   <h3 className="font-bold text-foreground mb-1">{t("contact.phone")}</h3>
-                  <a href="tel:+393479238414" className="text-muted-foreground hover:text-primary transition-colors">
+                  <a href="https://wa.me/393479238414" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary transition-colors">
                     +39 3479238414
                   </a>
                 </div>
