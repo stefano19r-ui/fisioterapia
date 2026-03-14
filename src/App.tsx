@@ -10,7 +10,6 @@ const queryClient = new QueryClient();
 
 import Privacy from "./pages/Privacy";
 
-import { CookieBanner } from "./components/CookieBanner";
 
 const App = () => (
   <QueryClientProvider client={queryClient}>
@@ -18,7 +17,6 @@ const App = () => (
       <Toaster />
       <Sonner />
       <BrowserRouter basename={import.meta.env.BASE_URL}>
-        <CookieBanner />
         <Routes>
           <Route path="/" element={<Index />} />
           <Route path="/privacy" element={<Privacy />} />

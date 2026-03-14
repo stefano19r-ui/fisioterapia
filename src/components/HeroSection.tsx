@@ -88,7 +88,6 @@ const HeroSection = () => {
                 </div>
                 <div>
                   <p className="font-bold text-sm text-foreground">Cura Personale</p>
-                  <p className="text-xs text-muted-foreground">Approccio umano</p>
                 </div>
               </div>
             </div>
