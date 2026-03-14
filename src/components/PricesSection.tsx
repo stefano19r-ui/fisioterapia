@@ -13,7 +13,7 @@ const PricesSection = () => {
         {
             title: t("prices.home"),
             price: "85 €",
-            description: "Torino"
+            description: "Verbania e Torino"
         }
     ];
 

@@ -22,7 +22,7 @@ export const translations: Translations = {
   "nav.book": { it: "Prenota ora", en: "Book now" },
 
   // Hero
-  "hero.title": { it: "Fisioterapia e Riabilitazione a Torino", en: "Physiotherapy and Rehabilitation in Turin" },
+  "hero.title": { it: "Fisioterapia e Riabilitazione a Verbania e Torino", en: "Physiotherapy and Rehabilitation in Turin" },
   "hero.subtitle": { it: "Recupera il tuo benessere con trattamenti personalizzati e terapia manuale avanzata.", en: "Recover your well-being with personalized treatments and advanced manual therapy." },
   "hero.cta": { it: "Prenota una visita", en: "Book a visit" },
 

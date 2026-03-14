@@ -21,7 +21,7 @@ const Navigation = () => {
     { name: t("nav.services"), href: "#servicios" },
     { name: t("nav.about"), href: "#sobre-mi" },
     { name: t("nav.prices"), href: "#prezzi" },
-    { name: t("nav.booking"), href: "#contacto" },
+
     { name: t("nav.reviews"), href: "#opiniones" },
     { name: t("nav.contact"), href: "#contacto" },
   ];
