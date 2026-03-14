@@ -5,15 +5,16 @@ const ServicesSection = () => {
   const { t } = useLanguage();
 
   const services = [
-    {
-      title: t("service.manual"),
-      description: t("service.manual.desc"),
-      icon: Hand,
-    },
+
     {
       title: t("service.rehab"),
       description: t("service.rehab.desc"),
       icon: UserCheck,
+    },
+    {
+      title: t("service.manual"),
+      description: t("service.manual.desc"),
+      icon: Hand,
     },
     {
       title: t("service.sport"),
@@ -21,8 +22,8 @@ const ServicesSection = () => {
       icon: Activity,
     },
     {
-      title: t("service.posture"),
-      description: t("service.posture.desc"),
+      title: t("service.backpain"),
+      description: t("service.backpain.desc"),
       icon: BrainCircuit,
     },
   ];

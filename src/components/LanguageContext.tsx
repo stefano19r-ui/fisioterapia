@@ -23,20 +23,20 @@ export const translations: Translations = {
 
   // Hero
   "hero.title": { it: "Fisioterapia e Riabilitazione a Verbania e Torino", en: "Physiotherapy and Rehabilitation in Turin" },
-  "hero.subtitle": { it: "Recupera il tuo benessere con trattamenti personalizzati e terapia manuale avanzata.", en: "Recover your well-being with personalized treatments and advanced manual therapy." },
+  "hero.subtitle": { it: "Recupera il tuo benessere con trattamenti personalizzati, esercizio terapeutico e terapia manuale avanzata.", en: "Recover your well-being with personalized treatments, exercise therapy and advanced manual therapy." },
   "hero.cta": { it: "Prenota una visita", en: "Book a visit" },
 
   // Services
   "services.title": { it: "I miei servizi", en: "My Services" },
   "services.subtitle": { it: "Trattamenti personalizzati per il tuo recupero", en: "Personalized treatments for your recovery" },
-  "service.manual": { it: "Terapia Manuale", en: "Manual Therapy" },
-  "service.manual.desc": { it: "Tecniche specializzate per ridurre il dolore e migliorare la mobilità.", en: "Specialized techniques to reduce pain and improve mobility." },
   "service.rehab": { it: "Riabilitazione", en: "Rehabilitation" },
   "service.rehab.desc": { it: "Recupero funzionale post-operatorio e post-traumatico.", en: "Post-operative and post-traumatic functional recovery." },
+  "service.manual": { it: "Terapia Manuale", en: "Manual Therapy" },
+  "service.manual.desc": { it: "Tecniche specializzate per migliorare la mobilità e favorire il movimento.", en: "Specialized techniques to improve mobility ." },
+  "service.backpain": { it: "Lombalgia e Lombosciatalgia", en: "Low back pain and Sciatica " },
+  "service.backpain.desc": { it: "Rieducazione ed esercizio terapeutico per il mal di schiena", en: "Rieducation and Exercise Therapy for low back pain." },
   "service.sport": { it: "Fisioterapia Sportiva", en: "Sports Physiotherapy" },
-  "service.sport.desc": { it: "Prevenzione e cura degli infortuni per atleti e sportivi.", en: "Injury prevention and care for athletes." },
-  "service.posture": { it: "Rieducazione Posturale", en: "Postural Re-education" },
-  "service.posture.desc": { it: "Correzione di squilibri posturali per prevenire dolori cronici.", en: "Correction of postural imbalances to prevent chronic pain." },
+  "service.sport.desc": { it: "Prevenzione e gestione degli infortuni per atleti e sportivi.", en: "Injury prevention and Treatment for athletes and sportspeople." },
 
   // Prices
   "prices.title": { it: "Prestazioni e Prezzi", en: "Services and Prices" },
@@ -73,11 +73,11 @@ export const translations: Translations = {
   // About
   "about.title": { it: "Chi sono", en: "About Me" },
   "about.bio1": {
-    it: "Laureato in Fisioterapia nel 2016 presso l'Università di Torino. In questi anni ho seguito varie formazioni sulla terapia manuale, l'esercizio terapeutico e la forza in riabilitazione.",
+    it: "Laureato in Fisioterapia nel 2016 presso l'Università di Torino. In questi anni ho seguito varie formazioni su esercizio terapeutico, terapia manuale e la forza in riabilitazione.",
     en: "Graduated in Physiotherapy in 2016 at the University of Turin. Over these years I have attended various training courses on manual therapy, therapeutic exercise, and strength in rehabilitation."
   },
   "about.bio2": {
-    it: "Attualmente collaboro con la società Ginnastica Grugliasco e ho partecipato come fisioterapista per la Nazionale di Ginnastica Acrobatica alle ultime edizione dei Mondiali ed Europei.",
+    it: "Attualmente collaboro in ambito sportivo con la società Ginnastica Grugliasco e ho partecipato come fisioterapista per la Nazionale di Ginnastica Acrobatica alle ultime edizione dei Mondiali ed Europei.",
     en: "I currently collaborate with the Grugliasco Gymnastics Society and have participated as a physiotherapist for the National Acrobatic Gymnastics Team at the last World and European Championships."
   },
   "about.bio3": {
