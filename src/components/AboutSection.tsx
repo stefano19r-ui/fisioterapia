@@ -29,10 +29,10 @@ const AboutSection = () => {
 
           <div className="order-1 lg:order-2 space-y-8 animate-fade-up" style={{ animationDelay: "0.2s" }}>
             <div className="space-y-4">
-              <h2 className="text-3xl md:text-4xl font-bold text-foreground">
+              <h2 className="text-3xl md:text-4xl font-bold mb-4 text-foreground">
                 {t("about.title")}
               </h2>
-              <div className="h-1 w-20 bg-accent rounded-full"></div>
+              <div className="h-1 w-20 bg-primary rounded-full"></div>
             </div>
 
             <div className="space-y-4 text-muted-foreground text-lg leading-relaxed">

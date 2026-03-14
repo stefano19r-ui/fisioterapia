@@ -29,9 +29,7 @@ const TestimonialsSection = () => {
     <section id="opiniones" className="py-20 bg-background relative overflow-hidden">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
         <div className="text-center max-w-2xl mx-auto mb-16 animate-fade-up">
-          <div className="inline-block px-3 py-1 rounded-full bg-accent/10 text-accent text-sm font-semibold mb-4 border border-accent/20">
-            Recensioni
-          </div>
+
           <h2 className="text-3xl md:text-4xl font-bold mb-4 text-foreground">
             {t("testimonials.title")}
           </h2>

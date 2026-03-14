@@ -24,7 +24,7 @@ const PricesSection = () => {
                     <h2 className="text-3xl md:text-4xl font-bold mb-4 text-foreground">
                         {t("prices.title")}
                     </h2>
-                    <div className="h-1 w-20 bg-accent mx-auto rounded-full"></div>
+                    <div className="h-1 w-20 bg-primary mx-auto rounded-full"></div>
                 </div>
 
                 <div className="flex flex-wrap justify-center gap-6 max-w-3xl mx-auto">

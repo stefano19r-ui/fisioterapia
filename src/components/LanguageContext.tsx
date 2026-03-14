@@ -28,7 +28,7 @@ export const translations: Translations = {
 
   // Services
   "services.title": { it: "I miei servizi", en: "My Services" },
-  "services.subtitle": { it: "Trattamenti personalizzati per il tuo recupero", en: "Personalized treatments for your recovery" },
+  "services.subtitle": { it: "Trattamenti", en: "Treatments" },
   "service.rehab": { it: "Riabilitazione", en: "Rehabilitation" },
   "service.rehab.desc": { it: "Recupero funzionale post-operatorio e post-traumatico.", en: "Post-operative and post-traumatic functional recovery." },
   "service.manual": { it: "Terapia Manuale", en: "Manual Therapy" },
@@ -98,11 +98,11 @@ export const translations: Translations = {
 
   // Contact
   "contact.title": { it: "Contattami", en: "Contact Me" },
-  "contact.subtitle": { it: "Prenota la tua visita oggi stesso", en: "Book your visit today" },
-  "contact.phone": { it: "Telefono", en: "Phone" },
+  "contact.subtitle": { it: "Prenota ora la tua visita", en: "Book your visit now" },
+  "contact.phone": { it: "Telefono (Whatsapp)", en: "Phone" },
   "contact.email": { it: "Email", en: "Email" },
   "contact.address": { it: "Indirizzo", en: "Address" },
-  "contact.address.value": { it: "Via Roma 10, 10121 Torino TO, Italia", en: "Via Roma 10, 10121 Turin TO, Italy" },
+  "contact.address.value": { it: "Via San Marino 5,10134, Torino TO, Italia", en: "Via San Marino 5, 10134, Turin TO, Italy" },
   "contact.form.name": { it: "Nome", en: "Name" },
   "contact.form.email": { it: "Email", en: "Email" },
   "contact.form.message": { it: "Messaggio", en: "Message" },

@@ -68,10 +68,10 @@ const ContactSection = () => {
               <h2 className="text-3xl md:text-4xl font-bold mb-4 text-foreground">
                 {t("contact.title")}
               </h2>
+              <div className="h-1 w-20 bg-primary rounded-full mb-6"></div>
               <p className="text-lg text-muted-foreground">
                 {t("contact.subtitle")}
               </p>
-              <div className="h-1 w-20 bg-accent mt-6 rounded-full"></div>
             </div>
 
             <div className="space-y-6">
