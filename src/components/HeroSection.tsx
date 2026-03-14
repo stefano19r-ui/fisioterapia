@@ -13,12 +13,7 @@ const HeroSection = () => {
   };
 
   return (
-    <section id="inicio" className="relative pt-32 pb-20 min-h-screen flex items-center overflow-hidden bg-gradient-to-br from-secondary/50 via-background to-secondary/30">
-      {/* Background Decorative Elements */}
-      <div className="absolute inset-0 overflow-hidden pointer-events-none">
-        <div className="absolute top-0 right-0 w-1/2 h-1/2 bg-primary/5 rounded-full blur-3xl transform translate-x-1/3 -translate-y-1/4"></div>
-        <div className="absolute bottom-0 left-0 w-1/2 h-1/2 bg-accent/5 rounded-full blur-3xl transform -translate-x-1/3 translate-y-1/4"></div>
-      </div>
+    <section id="inicio" className="relative pt-32 pb-20 min-h-screen flex items-center overflow-hidden bg-background">
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
         <div className="grid lg:grid-cols-2 gap-12 items-center">
@@ -64,32 +59,6 @@ const HeroSection = () => {
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent pointer-events-none"></div>
             </div>
-
-            {/* Floating Cards */}
-            <div className="absolute -bottom-6 -left-6 bg-white p-4 rounded-xl shadow-xl border border-border/50 z-20 animate-bounce-slow max-w-[200px]">
-              <div className="flex items-center gap-3">
-                <div className="bg-green-100 p-2 rounded-full">
-                  <ShieldCheck className="h-6 w-6 text-green-600" />
-                </div>
-                <div>
-                  <p className="font-bold text-sm text-foreground">Certificato</p>
-                  <p className="text-xs text-muted-foreground">Albo Fisioterapisti</p>
-                </div>
-              </div>
-            </div>
-
-            <div className="absolute -top-6 -right-6 bg-white p-4 rounded-xl shadow-xl border border-border/50 z-20 animate-bounce-slow max-w-[200px]" style={{ animationDelay: "1.5s" }}>
-              <div className="flex items-center gap-3">
-                <div className="bg-blue-100 p-2 rounded-full">
-                  <Heart className="h-6 w-6 text-blue-600" />
-                </div>
-                <div>
-                  <p className="font-bold text-sm text-foreground">Cura Personale</p>
-                </div>
-              </div>
-            </div>
-
-            <div className="absolute -z-10 top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-[120%] h-[120%] bg-gradient-to-tr from-primary/20 to-accent/20 rounded-full blur-3xl opacity-60"></div>
           </div>
         </div>
       </div>

@@ -30,11 +30,6 @@ const ServicesSection = () => {
 
   return (
     <section id="servicios" className="py-20 bg-background relative overflow-hidden">
-      {/* Background Decorative Elements */}
-      <div className="absolute top-0 left-0 w-full h-full overflow-hidden pointer-events-none">
-        <div className="absolute top-[10%] left-[5%] w-64 h-64 bg-primary/5 rounded-full blur-3xl"></div>
-        <div className="absolute bottom-[10%] right-[5%] w-64 h-64 bg-accent/5 rounded-full blur-3xl"></div>
-      </div>
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
         <div className="text-center max-w-2xl mx-auto mb-16 animate-fade-up">
