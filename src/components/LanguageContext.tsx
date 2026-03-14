@@ -33,8 +33,8 @@ export const translations: Translations = {
   "service.rehab.desc": { it: "Recupero funzionale post-operatorio e post-traumatico.", en: "Post-operative and post-traumatic functional recovery." },
   "service.manual": { it: "Terapia Manuale", en: "Manual Therapy" },
   "service.manual.desc": { it: "Tecniche specializzate per migliorare la mobilità e favorire il movimento.", en: "Specialized techniques to improve mobility ." },
-  "service.backpain": { it: "Lombalgia e Lombosciatalgia", en: "Low back pain and Sciatica " },
-  "service.backpain.desc": { it: "Rieducazione ed esercizio terapeutico per il mal di schiena", en: "Rieducation and Exercise Therapy for low back pain." },
+  "service.geriatric": { it: "Rieducazione per il paziente anziano", en: "Rehabilitation for geriatric patients" },
+  "service.geriatric.desc": { it: "Mantenimento e miglioramento delle capacità motorie e funzionali nel paziente anziano.", en: "Maintenance and Improvement of Motor and Functional Capacity in Older Adults." },
   "service.sport": { it: "Fisioterapia Sportiva", en: "Sports Physiotherapy" },
   "service.sport.desc": { it: "Prevenzione e gestione degli infortuni per atleti e sportivi.", en: "Injury prevention and Treatment for athletes and sportspeople." },
 

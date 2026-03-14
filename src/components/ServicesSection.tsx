@@ -22,8 +22,8 @@ const ServicesSection = () => {
       icon: Activity,
     },
     {
-      title: t("service.backpain"),
-      description: t("service.backpain.desc"),
+      title: t("service.geriatric"),
+      description: t("service.geriatric.desc"),
       icon: BrainCircuit,
     },
   ];
