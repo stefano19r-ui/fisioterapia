@@ -40,7 +40,7 @@ export const translations: Translations = {
 
   // Prices
   "prices.title": { it: "Prestazioni e Prezzi", en: "Services and Prices" },
-  "prices.physio": { it: "Fisioterapia / Prima Visita", en: "Physiotherapy / First Visit" },
+  "prices.physio": { it: "Fisioterapia in studio", en: "Physiotherapy in studio" },
   "prices.home": { it: "Visita a domicilio", en: "Home Visit" },
 
   // Pathologies
@@ -73,12 +73,12 @@ export const translations: Translations = {
   // About
   "about.title": { it: "Chi sono", en: "About Me" },
   "about.bio1": {
-    it: "Laureato in Fisioterapia nel 2016 presso l'Università di Torino. In questi anni ho seguito varie formazioni su esercizio terapeutico, terapia manuale e la forza in riabilitazione.",
-    en: "Graduated in Physiotherapy in 2016 at the University of Turin. Over these years I have attended various training courses on manual therapy, therapeutic exercise, and strength in rehabilitation."
+    it: "Mi sono laureato in Fisioterapia nel 2016 presso l'Università di Torino. In questi anni ho seguito varie formazioni sulla terapia manuale, l'esercizio terapeutico e strength and conditioning in riabilitazione.",
+    en: "I graduated in Physiotherapy in 2016 at the University of Turin. Over the years, I have attended various training courses in manual therapy, therapeutic exercise, and strength training in rehabilitation."
   },
   "about.bio2": {
-    it: "Attualmente collaboro in ambito sportivo con la società Ginnastica Grugliasco e ho partecipato come fisioterapista per la Nazionale di Ginnastica Acrobatica alle ultime edizione dei Mondiali ed Europei.",
-    en: "I currently collaborate with the Grugliasco Gymnastics Society and have participated as a physiotherapist for the National Acrobatic Gymnastics Team at the last World and European Championships."
+    it: "Attualmente collaboro con Federazione Nazionale Di Ginnastica per la sezione Acrobatica e ho partecipato come fisioterapista per la Nazionale di Ginnastica Acrobatica alle ultime edizione dei Mondiali ed Europei.",
+    en: "I currently collaborate with the Italian Gymnastics Federation for the Acro section and have participated as a physiotherapist for the Italian National Acrobatic Gymnastics Team at the last World and European Championships."
   },
   "about.bio3": {
     it: "Tra i miei pazienti figurano spesso ginnasti, circensi e danzatori, richiedendo un approccio altamente specializzato nella gestione del movimento e della performance.",
@@ -101,7 +101,7 @@ export const translations: Translations = {
   "contact.subtitle": { it: "Prenota ora la tua visita", en: "Book your visit now" },
   "contact.phone": { it: "Telefono (Whatsapp)", en: "Phone" },
   "contact.email": { it: "Email", en: "Email" },
-  "contact.address": { it: "Indirizzo", en: "Address" },
+  "contact.address": { it: "Indirizzo studio", en: "Studio Address" },
   "contact.address.value": { it: "Via San Marino 5,10134, Torino TO, Italia", en: "Via San Marino 5, 10134, Turin TO, Italy" },
   "contact.form.name": { it: "Nome", en: "Name" },
   "contact.form.email": { it: "Email", en: "Email" },

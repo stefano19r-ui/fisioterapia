@@ -14,7 +14,7 @@ All colors MUST be HSL.
 
     /* Health Blue - Trust & Professionalism */
     --primary: 200 60% 35%;
-    --primary-foreground: 40 25% 94%;
+    --primary-foreground: 0 0% 98%;
     --primary-soft: 200 40% 45%;
 
     /* Fresh Green - Recovery & Wellbeing */

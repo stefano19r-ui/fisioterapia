@@ -7,12 +7,12 @@ const PricesSection = () => {
     const prices = [
         {
             title: t("prices.physio"),
-            price: "70 €",
-            description: "45-60 min"
+            price: "65 €",
+            description: "In studio a Torino"
         },
         {
             title: t("prices.home"),
-            price: "85 €",
+            price: "75 €",
             description: "Verbania e Torino"
         }
     ];
