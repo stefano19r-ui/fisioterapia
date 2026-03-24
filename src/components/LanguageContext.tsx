@@ -73,12 +73,12 @@ export const translations: Translations = {
   // About
   "about.title": { it: "Chi sono", en: "About Me" },
   "about.bio1": {
-    it: "Mi sono laureato in Fisioterapia nel 2016 presso l'Università di Torino. In questi anni ho seguito varie formazioni sulla terapia manuale, l'esercizio terapeutico e strength and conditioning in riabilitazione.",
-    en: "I graduated in Physiotherapy in 2016 at the University of Turin. Over the years, I have attended various training courses in manual therapy, therapeutic exercise, and strength training in rehabilitation."
+    it: "Mi sono laureato in Fisioterapia nel 2016 presso l'Università di Torino. In questi anni ho lavorato principalmente in ambito muscolo-scheletrico e ortopedico. Ho seguito varie formazioni sulla terapia manuale, l'esercizio terapeutico e strength and conditioning in riabilitazione.",
+    en: "I graduated in Physiotherapy in 2016 at the University of Turin. Over the years, I have worked mainly in the musculoskeletal and orthopedic field. I have attended various training courses in manual therapy, therapeutic exercise, and strength training in rehabilitation."
   },
   "about.bio2": {
-    it: "Attualmente collaboro con Federazione Nazionale Di Ginnastica per la sezione Acrobatica e ho partecipato come fisioterapista per la Nazionale di Ginnastica Acrobatica alle ultime edizione dei Mondiali ed Europei.",
-    en: "I currently collaborate with the Italian Gymnastics Federation for the Acro section and have participated as a physiotherapist for the Italian National Acrobatic Gymnastics Team at the last World and European Championships."
+    it: "Attualmente collaboro con la Federazione Ginnastica D'Italia per la sezione Acrobatica e ho partecipato come fisioterapista della Nazionale di Ginnastica Acrobatica ai Mondiali 2024 ed Europei 2025.",
+    en: "I currently collaborate with the Italian Gymnastics Federation for the Acro section and have participated as a physiotherapist for the Italian National Acrobatic Gymnastics Team at the World Championships 2024 and European Championships 2025."
   },
   "about.bio3": {
     it: "Tra i miei pazienti figurano spesso ginnasti, circensi e danzatori, richiedendo un approccio altamente specializzato nella gestione del movimento e della performance.",
@@ -86,7 +86,7 @@ export const translations: Translations = {
   },
   "about.check1": { it: "Fisioterapista Nazionale", en: "National Team Physio" },
   "about.check2": { it: "Specialista Sportivo", en: "Sports Specialist" },
-  "about.check3": { it: "Terapia Manuale", en: "Manual Therapy" },
+  "about.check3": { it: "Esercizio terapeutico", en: "Therapeutic Exercise" },
 
   // Booking
   "booking.title": { it: "Prenota una Sessione", en: "Book a Session" },
